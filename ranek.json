@@ -1,3 +1,44 @@
 {
-  
+  "usuario": [
+    {
+      "id": "natromafe@gmail.com",
+      "email": "natromafe@gmail.com",
+      "nome": "Nata Romao",
+      "senha": "123",
+      "rua": "Rua ali do lado",
+      "cep": "12345678",
+      "numero": "25",
+      "estado": "BA",
+      "cidade": "Salvador"
+    }
+  ],
+  "produto": [
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "natromafe@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Notebook novo",
+      "fotos": []
+    },
+    {
+      "id": "smartphon",
+      "nome": "Smartphon",
+      "usuario_id": "natromafe@gmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Smartphon novo",
+      "fotos": []
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "natromafe@gmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Tablet novo",
+      "fotos": []
+    }
+  ]
 }
